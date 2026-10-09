@@ -1,0 +1,14 @@
+# Scraper output (large, third-party copyrighted content — keep local)
+jereh_docs/
+*.jsonl
+*.csv
+scrape_log.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
